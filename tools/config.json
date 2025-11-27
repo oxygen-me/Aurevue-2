@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0-pre-alpha",
+  "theme": "light",
+  "mood": "disabled",
+  "user": {
+    "name": "Cloud Strife",
+    "id": "dev-0001"
+  },
+  "window": {
+    "width": 1260,
+    "height": 960,
+    "fullscreen": false
+  },
+  "toolkit": {
+    "UPD": false
+  }
+}
